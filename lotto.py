@@ -2,7 +2,7 @@
 from tkinter import *
 
 window = Tk()
-img = PhotoImage(file = "giphy.gif")
+img = PhotoImage(file = "lotto.gif")
 window.configure(bg = "orange")
 
 imgLbl = Label(window, image = img)
